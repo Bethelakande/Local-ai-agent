@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Python version
+.python-version
+
+# Lock file
+uv.lock
+
+# Pyproject file
+pyproject.toml
+
+# CSV file
+realistic_restaurant_reviews.csv
+
+# ChromaDB
+chroma_langchain_db
+
